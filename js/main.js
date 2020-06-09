@@ -1,0 +1,3 @@
+const manItems = [
+    {'title':'Nincs'},
+];
