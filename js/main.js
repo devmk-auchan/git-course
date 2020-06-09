@@ -1,3 +1,6 @@
-const manItems = [
-    {'title':'Nincs'},
+const mainItems = [
+    {
+        'title':'Nincs',
+        'url':'/no'
+    },
 ];
